@@ -26,7 +26,7 @@ export default function FooterCom() {
                   target='_blank'
                   rel='noopener noreferrer'
                 >
-                  Elvis's Portfolio
+                  Elvis' Portfolio
                 </Footer.Link>
                 <Footer.Link
                   href='/about'
